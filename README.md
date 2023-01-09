@@ -1,4 +1,4 @@
-Olá, me chamo Lucas Carvalho (Liu) e...<br><br>👨‍💻 Web developer full-stack<br>📭 Contate-me: contato.carvalho@gmail.com<br>😊 Pronome: ele/dele
+Olá, me chamo Lucas Carvalho (Liu) <br><br>👨‍💻 Web developer full-stack<br>📭 Contate-me: contato.carvalho@gmail.com<br>😊 Pronome: ele/dele
 
 
 ## 🌐 Socials:
@@ -14,4 +14,3 @@ Olá, me chamo Lucas Carvalho (Liu) e...<br><br>👨‍💻 Web developer full-s
 ---
 [![](https://visitcount.itsvg.in/api?id=ldeliu&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
