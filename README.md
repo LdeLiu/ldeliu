@@ -1,4 +1,3 @@
-# 💫 About Me:
 Olá, me chamo Lucas Carvalho (Liu) e...<br><br>👨‍💻 Web developer full-stack<br>📭 Contate-me: carlosh.sales@outlook.com<br>😊 Pronome: ele/dele
 
 
