@@ -1,5 +1,5 @@
 Olá, me chamo Lucas Carvalho (Liu).
-Atualmente estou me aprofundando na area Font-end, estudando e praticando UI/UX , React e Sass.
+<p>Atualmente estou me aprofundando na area Font-end, estudando e praticando UI/UX , React e Sass.</p>
 <br><br>👨‍💻 Web developer full-stack<br>📭 Contate-me: contato.carvalho@gmail.com<br>😊 Pronome: ele/dele
 
 
