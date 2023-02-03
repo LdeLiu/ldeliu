@@ -1,4 +1,6 @@
-Olá, me chamo Lucas Carvalho (Liu)  <br><br>👨‍💻 Web developer full-stack<br>📭 Contate-me: contato.carvalho@gmail.com<br>😊 Pronome: ele/dele
+Olá, me chamo Lucas Carvalho (Liu).
+Atualmente estou me aprofundando na area Font-end, estudando e praticando UI/UX , React e Sass.
+<br><br>👨‍💻 Web developer full-stack<br>📭 Contate-me: contato.carvalho@gmail.com<br>😊 Pronome: ele/dele
 
 
 ## 🌐 Socials:
